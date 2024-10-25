@@ -1,5 +1,6 @@
 # Titanic Dataset Analysis
-This project performs a comprehensive analysis of the Titanic dataset. The code is organized into three main parts, each covering a specific aspect of the data journey, from understanding it to making predictions. This README provides a quick overview and instructions to help you get started.
+
+This project is a detailed analysis of the Titanic dataset. It’s divided into three main parts, guiding through each step in working with the data—from getting to know it, preparing it, and finally making predictions on survival outcomes. This README gives a quick overview and simple instructions to help run the code smoothly.
 
 ## Getting Started
 
