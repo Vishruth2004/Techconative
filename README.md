@@ -28,9 +28,10 @@ data.head()
 ```
 
 2. Run All Cells: Begin from the top and run each code cell in sequence. This will perform EDA, apply feature engineering, and generate predictions.
+   
 3. Review Outputs: Outputs and model evaluations are available after each section.
 
 ## Dependencies
 
-Python 3.x
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, RandomForestClassifier, KNeighborsClassifier
+- Python 3.x
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`, `RandomForestClassifier`, `KNeighborsClassifier`
